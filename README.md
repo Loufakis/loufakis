@@ -15,12 +15,12 @@
 
 ## 🧰 Tech Stack
 
-**Languages**  
+**👨‍💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
-**ML & DL**  
+**🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python)
@@ -37,7 +37,7 @@
 ![Weights & Biases](https://img.shields.io/badge/-WandB-333333?style=flat&logo=wandb) 
 
 
-**Dev & Ops**  
+**🛠️ Dev & Ops**  
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -46,10 +46,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
 
 
-**BI Tools**  
+**📊 BI Tools**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 
-### 📝 Academic & Docs
+**📝 Academic & Docs **
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=overleaf)
 

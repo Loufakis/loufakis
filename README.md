@@ -6,8 +6,8 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/loufakis?style=flat-square" />
 </p>
 
-🎓 **Data Scientist @ EY** | MSc in Artificial Intelligence
-🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪
+🎓 **Data Scientist @ EY** | MSc in Artificial Intelligence  
+🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪  
 📍 Thessaloniki, Greece  
 🧠 Passionate about solving real-world problems using Machine Learning, NLP, and Computer Vision.  
 ✍️ Contributor to AI research in predictive maintenance and image understanding.
@@ -17,13 +17,13 @@
 ## 🔧 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 **ML & DL**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn), ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas), ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
 **Dev & Ops**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github), ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **BI Tools**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)

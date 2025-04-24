@@ -49,7 +49,7 @@
 **📊 BI Tools**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 
-**📝 Academic & Docs **
+**📝 Academic & Docs **  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=overleaf)
 

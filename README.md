@@ -61,14 +61,6 @@ With a strong foundation in mathematics and AI, I design scalable machine learni
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loufakis&show_icons=true&theme=default&hide_title=true" alt="Michalis' GitHub stats" />
-</p>
-
----
-
 ## 🔍 Recent Experience
 
 - 🧠 **Data Scientist @ EY** (2024–present): Working on production-ready NLP and ML pipelines.

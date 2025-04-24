@@ -60,7 +60,7 @@
 - 🧠 **Data Scientist @ EY** (2024–present): Working on production-ready NLP and ML pipelines.
 - 🧪 **Deep Learning Engineer @ CERTH** (2020–2024): Led AI projects in computer vision, predictive maintenance, and reinforcement learning.
 - 📊 **BI & Data Science Academy Finalist**: Top 4% of 1500 applicants – trained in SQL, ML, and Power BI.
-- 🎓 **Private Math Tutor**: 10+ years helping university students excel in statistics, probability, and machine learning.
+- 🎓 **Private Math Tutor**: 10+ years helping students excel in mathematics, physics, statistics, probability, and machine learning.
 
 
 ## 🎓 Education

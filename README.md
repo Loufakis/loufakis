@@ -7,7 +7,7 @@
 </p>
 
 🎓 **Data Scientist @ EY** | MSc in Artificial Intelligence  
-🌍 Languages: Greek (🇬🇷) | English 🇬🇧 | German 🇩🇪  
+🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪  
 📍  Thessaloniki, Greece  
 🧠 Passionate about solving real-world problems using Machine Learning, NLP, and Computer Vision.  
 ✍️ Contributor to AI research in predictive maintenance and image understanding.

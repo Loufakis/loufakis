@@ -1,28 +1,3 @@
-## Hi there 👋
-
-<!--
-**Loufakis/loufakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Data Scientist at EY | MSc in Artificial Intelligence | Deep Learning | NLP | Computer Vision
-
-With a strong foundation in mathematics and AI, I design scalable machine learning systems to solve real-world problems. My experience spans across industry and research—from developing predictive maintenance models at CERTH to applying LLMs and building AI-powered tools at EY. Passionate about innovation and mentorship.
-
-🔧 Tech: Python | PyTorch | TensorFlow | SQL | Power BI | Git
-🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪
-📍 Based in Thessaloniki, Greece
-
-
 # 👋 Hi there, I'm Michalis Loufakis
 
 <p align="center">
@@ -31,7 +6,8 @@ With a strong foundation in mathematics and AI, I design scalable machine learni
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/loufakis?style=flat-square" />
 </p>
 
-🎓 **Data Scientist @ EY** | MSc in Artificial Intelligence  
+🎓 **Data Scientist @ EY** | MSc in Artificial Intelligence
+🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪
 📍 Thessaloniki, Greece  
 🧠 Passionate about solving real-world problems using Machine Learning, NLP, and Computer Vision.  
 ✍️ Contributor to AI research in predictive maintenance and image understanding.
@@ -41,20 +17,13 @@ With a strong foundation in mathematics and AI, I design scalable machine learni
 ## 🔧 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 **ML & DL**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)  
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow), ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn), ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas), ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 
 **Dev & Ops**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github), ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **BI Tools**  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)

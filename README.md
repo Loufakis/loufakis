@@ -39,8 +39,8 @@
 
 **🛠️ Dev & Ops**  
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![Gradio](https://img.shields.io/badge/Gradio-000000?style=flat&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-333333?style=flat&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-333333?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)

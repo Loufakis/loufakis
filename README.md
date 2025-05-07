@@ -23,7 +23,7 @@
 **🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=catboost)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 
@@ -33,8 +33,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
-![Weights & Biases](https://img.shields.io/badge/-WandB-333333?style=flat&logo=wandb) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=wandb)  
 
 
 **🛠️ Dev & Ops**  

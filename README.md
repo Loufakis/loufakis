@@ -23,7 +23,7 @@
 **🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg&logoWidth=20)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg&logoWidth=20)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 

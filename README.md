@@ -31,6 +31,8 @@
 ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-333333?style=flat)
+![Optuna](https://img.shields.io/badge/-Optuna-333333?style=flat&logo=optuna)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)

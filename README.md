@@ -15,9 +15,6 @@
 
 ## 🧰 Tech Stack
 
-![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama&titles=false)
-
-
 
 **👨‍💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)

@@ -26,6 +26,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg&logoWidth=20)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic-333333?style=flat&logo=anthropic)
 ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=catboost)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 

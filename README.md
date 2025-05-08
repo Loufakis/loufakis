@@ -23,7 +23,7 @@
 **🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-<img src="[https://yourdomain.com/logo.png](https://tse3.mm.bing.net/th/id/OIP.1KJ7SSlpkhwdK-5mIIjNNwHaHa?cb=iwp1&w=474&h=474&c=7)" width="20"/> ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain-Dark.svg" width="20"/> ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 <img src="https://yourdomain.com/logo.png" width="20"/> ![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=catboost)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 

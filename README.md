@@ -25,7 +25,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain-Dark.svg" width="20"/> ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
-![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png)
+![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png&logoWidth=20)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 
 ![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat&logo=lightgbm)
 ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)

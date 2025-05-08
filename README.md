@@ -23,6 +23,9 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="26" style="background-color:#333;padding:4px;border-radius:4px;" />
 </a>
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" style="vertical-align:middle;background:#333;padding:4px;border-radius:4px;" />](https://github.com)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="24" />](https://github.com)
+[![GitHub](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg)](https://github.com)
+
 
 
 

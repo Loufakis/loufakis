@@ -53,6 +53,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 
 
 **📊 BI Tools**  

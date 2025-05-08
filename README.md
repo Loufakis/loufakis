@@ -17,6 +17,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
 **👨‍💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)

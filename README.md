@@ -29,7 +29,7 @@
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 
 ![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat&logo=lightgbm)
 ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=https://github.com/Loufakis/loufakis/blob/main/static/imgs/opencv-logo.png&logoWidth=20)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
 ![Statsmodels](https://img.shields.io/badge/-Statsmodels-333333?style=flat)
 ![Optuna](https://img.shields.io/badge/-Optuna-333333?style=flat&logo=optuna)

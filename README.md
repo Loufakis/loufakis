@@ -30,7 +30,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg&logoWidth=20)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=https://raw.githubusercontent.com/ollama/ollama/main/public/ollama.png&logoWidth=20)
-![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg&logoWidth=20)
+![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=ollama)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 
 ![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat&logo=lightgbm)
 ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)

@@ -19,6 +19,10 @@
 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
+<a href="https://github.com">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="26" style="background-color:#333;padding:4px;border-radius:4px;" />
+</a>
+
 **👨‍💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)

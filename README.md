@@ -24,11 +24,7 @@
 **🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg&logoWidth=20)
-![OpenAI API](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
-![Anthropic](https://img.shields.io/badge/-Anthropic-333333?style=flat&logo=anthropic)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-333333?style=flat&logo=deepseek)
-![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-333333?style=flat&logo=catboost)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost) 
 ![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat&logo=lightgbm)
@@ -42,6 +38,13 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=wandb)  
+
+**🤖 LLM Providers**
+![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=flat&logo=openai)
+![Anthropic](https://img.shields.io/badge/Anthropic-333333?style=flat&logo=anthropic)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-333333?style=flat&logo=deepseek)
+![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-333333?style=flat&logo=huggingface)
 
 
 **🛠️ Dev & Ops**  

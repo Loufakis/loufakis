@@ -39,7 +39,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=wandb)  
 
-**🤖 LLM Providers**
+**🤖 LLM Providers**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=flat&logo=openai)
 ![Anthropic](https://img.shields.io/badge/Anthropic-333333?style=flat&logo=anthropic)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-333333?style=flat&logo=deepseek)

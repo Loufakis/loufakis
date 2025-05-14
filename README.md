@@ -85,8 +85,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Finalist – Project Future 6: BI & DS Academy  
-- 🥋 Gold Medal – Judo International Tournament, Osaka  
+- 🥇 Finalist – Project Future 6: BI & DS Academy   
 - 📚 Publications in anomaly detection, AV production, and radar maintenance using deep learning.
 
 

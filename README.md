@@ -19,7 +19,8 @@
 **👨‍💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 **🧠 ML & DL**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)

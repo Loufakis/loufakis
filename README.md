@@ -52,6 +52,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Gradio](https://img.shields.io/badge/Gradio-333333?style=flat&logo=gradio)
 ![Streamlit](https://img.shields.io/badge/Streamlit-333333?style=flat&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logo)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)

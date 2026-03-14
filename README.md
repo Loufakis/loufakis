@@ -88,7 +88,7 @@
 ## 🏆 Achievements
 
 - 🥇 Finalist – Project Future 6: BI & DS Academy   
-- 📚 Publications in anomaly detection, AV production, and radar maintenance using deep learning.
+- 📚 Publications in anomaly detection, UAV production, and radar maintenance using deep learning.
 
 
 ## 🤝 Let's Connect

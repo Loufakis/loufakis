@@ -6,7 +6,7 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/loufakis?style=flat-square" />
 </p>
 
-🎓 **Machine Learning Engineer @ Medoid AI** | MSc in Artificial Intelligence  
+🎓 **Senior Machine Learning Engineer @ Medoid AI** | MSc in Artificial Intelligence  
 🌍 Languages: Greek 🇬🇷 | English 🇬🇧 | German 🇩🇪  
 📍  Thessaloniki, Greece  
 🧠 Passionate about solving real-world problems using Machine Learning, NLP, and Computer Vision.  
@@ -98,5 +98,3 @@
 
 
 ⭐ _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_
-
-

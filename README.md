@@ -75,14 +75,14 @@
 
 - 🧠 **Data Scientist @ EY** (2024–present): Working on production-ready NLP and ML pipelines.
 - 🧪 **Deep Learning Engineer @ CERTH** (2020–2024): Led AI projects in computer vision, predictive maintenance, and reinforcement learning.
-- 📊 **BI & Data Science Academy Finalist**: Top 4% of 1500 applicants – trained in SQL, ML, and Power BI.
+- 📊 **BI & Data Science Academy Finalist**: Top 4% of 1500 applicants, trained in SQL, ML, and Power BI.
 - 🎓 **Private Math Tutor**: 10+ years helping students excel in mathematics, physics, statistics, probability, and machine learning.
 
 
 ## 🎓 Education
 
-- MSc in Artificial Intelligence – Aristotle University of Thessaloniki (2021–2023)  
-- BSc in Mathematics – Aristotle University of Thessaloniki (2014–2020)
+- MSc in Artificial Intelligence | Aristotle University of Thessaloniki (2021–2023)  
+- BSc in Mathematics | Aristotle University of Thessaloniki (2014–2020)
 
 
 ## 🏆 Achievements

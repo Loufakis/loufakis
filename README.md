@@ -6,7 +6,7 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/loufakis?style=flat-square" />
 </p>
 
-🎓 **Senior Machine Learning Engineer @ Medoid AI** | MSc in Artificial Intelligence  
+:bulb: **Senior Machine Learning Engineer | MSc in Artificial Intelligence**  
 🌍 Languages:
       <img src="https://flagcdn.com/w20/gr.png" width="16" alt="Greek"/> Greek | 
       <img src="https://flagcdn.com/w20/gb.png" width="16" alt="English"/> English | 
@@ -74,8 +74,9 @@
 ![Overleaf](https://img.shields.io/badge/-Overleaf-333333?style=flat&logo=overleaf)
 
 
-## 🔍 Recent Experience
+## :briefcase: Recent Experience
 
+- 🤖 **Senior Machine Learning Engineer @ Medoid AI** (2025-pressent)
 - 🧠 **Data Scientist @ EY** (2024–2025): Working on production-ready NLP and ML pipelines.
 - 🧪 **Deep Learning Engineer @ CERTH** (2020–2024): Led AI projects in computer vision, predictive maintenance, and reinforcement learning.
 - 📊 **BI & Data Science Academy Finalist**: Top 4% of 1500 applicants, trained in SQL, ML, and Power BI.
@@ -84,8 +85,8 @@
 
 ## 🎓 Education
 
-- MSc in Artificial Intelligence | Aristotle University of Thessaloniki (2021–2023)  
-- BSc in Mathematics | Aristotle University of Thessaloniki (2014–2020)
+- MSc in Artificial Intelligence @ Aristotle University of Thessaloniki (AUTh) (2021–2023)  
+- BSc in Mathematics @ Aristotle University of Thessaloniki (AUTh) (2014–2020)
 
 
 ## 🏆 Achievements

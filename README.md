@@ -7,7 +7,7 @@
 </p>
 
 🎓 **Senior Machine Learning Engineer @ Medoid AI** | MSc in Artificial Intelligence  
-🌍 Languages: Greek :flag-gr: | English 🇬🇧 | German 🇩🇪  
+🌍 Languages: Greek :greece: | English :uk: | German :de:  
 📍  Thessaloniki, Greece  
 🧠 Passionate about solving real-world problems using Machine Learning, NLP, and Computer Vision.  
 ✍️ Contributor to AI research in predictive maintenance and image understanding.
